@@ -318,6 +318,11 @@ nav ul {
           flex: 1 1 40rem;
 }
 
+.travelly a,
+.elena a {
+  font-size: 4rem;
+}
+
 .form-section {
   min-height: 77vh;
   display: -webkit-box;
